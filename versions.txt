@@ -1,213 +1,214 @@
-1.21.5
-Fabric 1.21.5
-Qult 1.21.5
-1.21.4
-Fabric 1.21.4
-Qult 1.21.4
-Forge 1.21.4
-Optifine 1.21.4
-1.21.3
-Fabric 1.21.3
-Qult 1.21.3
-Forge 1.21.3
-Optifine 1.21.3
-1.21.2
-Fabric 1.21.2
-Qult 1.21.2
-1.21.1
-Fabric 1.21.1
-Qult 1.21.1
-Forge 1.21.1
-Optifine 1.21.1
-1.21
-Fabric 1.21
-Qult 1.21
-Forge 1.21
-Optifine 1.21
-1.20.6
-Fabric 1.20.6
-Qult 1.20.6
-Forge 1.20.6
-1.20.5
-Fabric 1.20.5
-Qult 1.20.5
-1.20.4
-Fabric 1.20.4
-Qult 1.20.4
-Forge 1.20.4
-Optifine 1.20.4
-1.20.3
-Fabric 1.20.3
-Qult 1.20.3
-Forge 1.20.3
-Optifine 1.20.3
-1.20.2
-Fabric 1.20.2
-Qult 1.20.2
-Forge 1.20.2
-1.20.1
-Fabric 1.20.1
-Qult 1.20.1
-Forge 1.20.1
-Optifine 1.20.1
-1.20
-Fabric 1.20
-Qult 1.20
-Forge 1.20
-1.19.4
-Fabric 1.19.4
-Qult 1.19.4
-Forge 1.19.4
-Optifine 1.19.4
-1.19.3
-Fabric 1.19.3
-Qult 1.19.3
-Forge 1.19.3
-Optifine 1.19.3
-1.19.2
-Fabric 1.19.2
-Qult 1.19.2
-Forge 1.19.2
-Optifine 1.19.2
-1.19.1
-Fabric 1.19.1
-Qult 1.19.1
-Forge 1.19.1
-Optifine 1.19.1
-1.19
-Fabric 1.19
-Qult 1.19
-Forge 1.19
-Optifine 1.19
-1.18.2
-Fabric 1.18.2
-Qult 1.18.2
-Forge 1.18.2
-Optifine 1.18.2
-1.18.1
-Fabric 1.18.1
-Qult 1.18.1
-Forge 1.18.1
-Optifine 1.18.1
-1.18
-Fabric 1.18
-Qult 1.18
-Forge 1.18
-Optifine 1.18
-1.17.1
-Fabric 1.17.1
-Qult 1.17.1
-Forge 1.17.1
-Optifine 1.17.1
-1.17
-Fabric 1.17
-Qult 1.17
-1.16.5
-Fabric 1.16.5
-Qult 1.16.5
-Forge 1.16.5
-Optifine 1.16.5
-1.16.4
-Fabric 1.16.4
-Qult 1.16.4
-Forge 1.16.4
-Optifine 1.16.4
-1.16.3
-Fabric 1.16.3
-Qult 1.16.3
-Forge 1.16.3
-Optifine 1.16.3
-1.16.2
-Fabric 1.16.2
-Qult 1.16.2
-Forge 1.16.2
-Optifine 1.16.2
-1.16.1
-Fabric 1.16.1
-Qult 1.16.1
-Forge 1.16.1
-Optifine 1.16.1
-1.16
-Fabric 1.16
-Qult 1.16
-1.15.2
-Fabric 1.15.2
-Qult 1.15.2
-Forge 1.15.2
-Optifine 1.15.2
-1.15.1
-Fabric 1.15.1
-Qult 1.15.1
-Forge 1.15.1
-1.15
-Fabric 1.15
-Qult 1.15
-Forge 1.15
-1.14.4
-Fabric 1.14.4
-Qult 1.14.4
-Forge 1.14.4
-Optifine 1.14.4
-1.14.3
-Fabric 1.14.3
-1.14.2
-Fabric 1.14.2
-Optifine 1.14.2
-1.14.1
-Fabric 1.14.1
-1.14
-fabric 1.14
-1.13.2
-Forge 1.13.2
-Optifine 1.13.2
-1.13.1
-Forge 1.13.1
-Optifine 1.13.1
-1.13
-Forge 1.13
-Optifine 1.13
-1.12.2
-Forge 1.12.2
-Optifine 1.12.2
-1.12.1
-Forge 1.12.1
-Optifine 1.12.1
-1.12
-Forge 1.12
-Optifine 1.12
-1.11.2
-Forge 1.11.2
-Optifine 1.11.2
-1.11.1
-Forge 1.11.1
-Optifine 1.11.1
-1.11
-Forge 1.11
-Optifine 1.11
-1.10.2
-Forge 1.10.2
-Optifine 1.10.2
-1.10
-Forge 1.10
-Optifine 1.10
-1.9.4
-Forge 1.9.4
-Optifine 1.9.4
-1.9.2
-Forge 1.9.2
-Optifine 1.9.2
-1.9
-Forge 1.9
-Optifine 1.9
-1.8.9
-Forge 1.8.9
-Optifine 1.8.9
-1.8.8
-Forge 1.8.8
-Optifine 1.8.8
-1.8
-Forge 1.8
-Optifine 1.8
-1.7.10
-Forge 1.7.10
-Optifine 1.7.10
+1.21.5|release
+1.21.5|fabric
+1.21.5|qult
+1.21.4|release
+1.21.4|fabric
+1.21.4|qult
+1.21.4|forge
+1.21.4|optifine
+1.21.3|release
+1.21.3|fabric
+1.21.3|qult
+1.21.3|forge
+1.21.3|optifine
+1.21.2|release
+1.21.2|fabric
+1.21.2|qult
+1.21.1|release
+1.21.1|fabric
+1.21.1|qult
+1.21.1|forge
+1.21.1|optifine
+1.21|release
+1.21|fabric
+1.21|qult
+1.21|forge
+1.21|optifine
+1.20.6|release
+1.20.6|fabric
+1.20.6|qult
+1.20.6|forge
+1.20.5|release
+1.20.5|fabric
+1.20.5|qult
+1.20.4|release
+1.20.4|fabric
+1.20.4|qult
+1.20.4|forge
+1.20.4|optifine
+1.20.3|release
+1.20.3|fabric
+1.20.3|qult
+1.20.3|forge
+1.20.3|optifine
+1.20.2|release
+1.20.2|fabric
+1.20.2|qult
+1.20.2|forge
+1.20.1|release
+1.20.1|fabric
+1.20.1|qult
+1.20.1|forge
+1.20.1|optifine
+1.20|release
+1.20|fabric
+1.20|qult
+1.20|forge
+1.19.4|release
+1.19.4|fabric
+1.19.4|qult
+1.19.4|forge
+1.19.4|optifine
+1.19.3|release
+1.19.3|fabric
+1.19.3|qult
+1.19.3|forge
+1.19.3|optifine
+1.19.2|release
+1.19.2|fabric
+1.19.2|qult
+1.19.2|forge
+1.19.2|optifine
+1.19.1|release
+1.19.1|fabric
+1.19.1|qult
+1.19.1|forge
+1.19.1|optifine
+1.19|release
+1.19|fabric
+1.19|qult
+1.19|forge
+1.19|optifine
+1.18.2|release
+1.18.2|fabric
+1.18.2|qult
+1.18.2|forge
+1.18.2|optifine
+1.18.1|release
+1.18.1|fabric
+1.18.1|qult
+1.18.1|forge
+1.18.1|optifine
+1.18|release
+1.18|fabric
+1.18|qult
+1.18|forge
+1.18|optifine
+1.17.1|release
+1.17.1|fabric
+1.17.1|qult
+1.17.1|forge
+1.17.1|optifine
+1.17|release
+1.17|fabric
+1.17|qult
+1.16.5|release
+1.16.5|fabric
+1.16.5|qult
+1.16.5|forge
+1.16.5|optifine
+1.16.4|release
+1.16.4|fabric
+1.16.4|qult
+1.16.4|forge
+1.16.4|optifine
+1.16.3|release
+1.16.3|fabric
+1.16.3|qult
+1.16.3|forge
+1.16.3|optifine
+1.16.2|release
+1.16.2|fabric
+1.16.2|qult
+1.16.2|forge
+1.16.2|optifine
+1.16.1|release
+1.16.1|fabric
+1.16.1|qult
+1.16.1|forge
+1.16.1|optifine
+1.16|release
+1.16|fabric
+1.16|qult
+1.15.2|release
+1.15.2|fabric
+1.15.2|qult
+1.15.2|forge
+1.15.2|optifine
+1.15.1|release
+1.15.1|fabric
+1.15.1|qult
+1.15.1|forge
+1.15|release
+1.15|fabric
+1.15|qult
+1.15|forge
+1.14.4|release
+1.14.4|fabric
+1.14.4|qult
+1.14.4|forge
+1.14.4|optifine
+1.14.3|release
+1.14.3|fabric
+1.14.2|release
+1.14.2|fabric
+1.14.2|optifine
+1.14.1|release
+1.14.1|fabric
+1.14|release
+1.14|fabric
+1.13.2|release
+1.13.2|forge
+1.13.2|optifine
+1.13.1|release
+1.13.1|forge
+1.13.1|optifine
+1.13|release
+1.13|forge
+1.13|optifine
+1.12.2|release
+1.12.2|forge
+1.12.2|optifine
+1.12.1|release
+1.12.1|forge
+1.12.1|optifine
+1.12|release
+1.12|forge
+1.12|optifine
+1.11.2|release
+1.11.2|forge
+1.11.2|optifine
+1.11.1|release
+1.11.1|forge
+1.11.1|optifine
+1.11|release
+1.11|forge
+1.11|optifine
+1.10.2|release
+1.10.2|forge
+1.10.2|optifine
+1.10|release
+1.10|forge
+1.10|optifine
+1.9.4|release
+1.9.4|forge
+1.9.4|optifine
+1.9.2|release
+1.9.2|forge
+1.9.2|optifine
+1.9|release
+1.9|forge
+1.9|optifine
+1.8.9|release
+1.8.9|forge
+1.8.9|optifine
+1.8.8|release
+1.8.8|forge
+1.8.8|optifine
+1.8|release
+1.8|forge
+1.8|optifine
+1.7.10|release
+1.7.10|forge
+1.7.10|optifine
+
