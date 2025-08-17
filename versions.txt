@@ -1,5 +1,6 @@
 1.21.8|qult
 1.21.8|fabric
+1.21.8|release
 1.21.7|qult
 1.21.7|fabric
 1.21.7|release
