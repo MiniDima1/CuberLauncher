@@ -1,0 +1,7 @@
+java8: 'https://download.java.net/openjdk/jdk8u44/ri/openjdk-8u44-windows-i586.zip'
+java16: 'https://download.java.net/openjdk/jdk16/ri/openjdk-16+36_windows-x64_bin.zip'
+java17: 'https://download.java.net/openjdk/jdk17.0.0.1/ri/openjdk-17.0.0.1+2_windows-x64_bin.zip'
+java18: 'https://download.java.net/openjdk/jdk18/ri/openjdk-18+36_windows-x64_bin.zip'
+java19: 'https://download.java.net/openjdk/jdk19/ri/openjdk-19+36_windows-x64_bin.zip'
+java21: 'https://download.java.net/openjdk/jdk21/ri/openjdk-21+35_windows-x64_bin.zip'
+java24: 'https://download.java.net/openjdk/jdk24/ri/openjdk-24+36_windows-x64_bin.zip'
