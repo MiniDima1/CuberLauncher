@@ -179,7 +179,7 @@
 1.13|optifine
 1.12.2|release
 1.12.2|forge
-OptiFine_1.12.2_HD_U_G5
+1.12.2|optifine
 1.12.1|release
 1.12.1|forge
 1.12.1|optifine
