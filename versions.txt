@@ -1,3 +1,4 @@
+1.21.10|release
 1.21.9|qult
 1.21.9|release
 1.21.8|qult
