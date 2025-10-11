@@ -165,3 +165,4 @@
 1.8|optifine
 1.7.10|forge
 1.7.10|optifine
+1.0|optifine
