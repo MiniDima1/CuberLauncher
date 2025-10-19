@@ -1,3 +1,4 @@
+1.21.10|quilt
 1.21.9|quilt
 1.21.8|quilt
 1.21.8|fabric
