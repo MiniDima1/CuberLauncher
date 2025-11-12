@@ -166,12 +166,6 @@
 1.8|optifine
 1.7.10|forge
 1.7.10|optifine
-1.7.9|forge
-1.7.8|forge
-1.7.7|forge
-1.7.6|forge
-1.7.5|forge
-1.7.4|forge
 1.7.2|forge
 1.6.4|forge
 1.6.2|forge
