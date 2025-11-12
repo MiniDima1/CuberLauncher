@@ -150,8 +150,6 @@
 1.11|optifine
 1.10.2|forge
 1.10.2|optifine
-1.10|forge
-1.10|optifine
 1.9.4|forge
 1.9.4|optifine
 1.9.2|forge
