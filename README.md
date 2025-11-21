@@ -25,4 +25,4 @@
 
 ## Официальный сайт
 
-https://minidima1.github.io/CL-Site/
+https://cl.isaka.su/
