@@ -1,4 +1,4 @@
-java7: 'https://github.com/MiniDima1/CuberLauncher/releases/download/Java/jre-7u80-windows-x64.tar.zip'
 java8: 'https://github.com/MiniDima1/CuberLauncher/releases/download/Java/OpenJDK8_x64_Win_jdk8u172-b11.zip'
-java17: 'https://github.com/MiniDima1/CuberLauncher/releases/download/Java/microsoft-jdk-17.0.16-windows-x64.zip'
+java7: 'https://github.com/MiniDima1/CuberLauncher/releases/download/Java/jre-7u80-windows-x64.tar.zip'
 java21: 'https://github.com/MiniDima1/CuberLauncher/releases/download/Java/microsoft-jdk-21.0.8-windows-x64.zip'
+java17: 'https://github.com/MiniDima1/CuberLauncher/releases/download/Java/microsoft-jdk-17.0.16-windows-x64.zip'
