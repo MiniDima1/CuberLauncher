@@ -25,4 +25,4 @@
 
 ## Официальный сайт
 
-https://cl.isaka.su/
+https://cl.isaka.one/
