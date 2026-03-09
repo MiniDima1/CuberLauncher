@@ -1,5 +1,6 @@
 1.21.11|fabric
 1.21.11|forge
+1.21.11|optifine
 1.21.11|quilt
 1.21.10|quilt
 1.21.10|fabric
