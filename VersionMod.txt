@@ -141,8 +141,6 @@
 1.14.1|fabric
 1.14|fabric
 1.13.2|forge
-1.13.2|optifine
-1.13.1|forge
 1.13.1|optifine
 1.12.2|forge
 1.12.2|optifine
